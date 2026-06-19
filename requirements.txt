@@ -1,0 +1,15 @@
+# Physics and math
+numpy
+
+# Reinforcement learning environment interface
+gymnasium
+
+# PPO training algorithm
+stable-baselines3[extra]
+
+# Training visualization
+tensorboard
+
+# Data analysis and plotting
+plotly
+pandas
